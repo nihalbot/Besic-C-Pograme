@@ -1,2 +1,3 @@
 # firstp
-test project on github
+Trying to learn c. Its my all collection of what i am doing.
+
